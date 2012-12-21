@@ -1,6 +1,7 @@
-Androidプログラミング初心者のためのゲームアプリ開発入門<br>
-<br>
-第1章　ゲームの基本（SurfaceviewとThread）<br>
+Androidプログラミング初心者のためのゲームアプリ開発入門
+==============
+<H2>第1章　ゲームの基本（SurfaceviewとThread）</H2>
+
 <br>
 【概要】 <br>
 ゲームの基本であるSurfaceviewとThreadの導入<br>
